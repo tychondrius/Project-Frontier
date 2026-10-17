@@ -1,0 +1,6 @@
+{
+  "name": "Project Frontier - 3D Sci-Fi MMORPG",
+  "description": "A mobile-first 3D sci-fi MMORPG prototype with tab-target combat, deep character progression, cybernetic implants, abilities, quests, and outpost exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
